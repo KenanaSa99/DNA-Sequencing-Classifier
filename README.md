@@ -1,5 +1,16 @@
 Classifying DNA Sequence using ML
 
+
+
+![wired-dna-test](https://github.com/KenanaSa99/DNA-Sequencing-Classifier/assets/90327865/9984cdc5-3623-47d2-ab4b-8f143786426d)
+
+
+
+
+
+
+
+
 What is DNA Sequencing?¶
 
 DNA sequencing is a laboratory technique used to determine the exact sequence of bases (A, C, G, and T) in a DNA molecule.DNA sequence information is important to scientists investigating the functions of genes. The technology of DNA sequencing was made faster and less expensive as a part of the Human Genome Project.
